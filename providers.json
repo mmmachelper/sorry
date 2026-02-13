@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updated_at": "2026-02-13T12:00:00Z",
+  "providers": [
+    {
+      "id": "mgmg",
+      "name": "Mg Mg Server",
+      "api_base_url": "https://mgmg.example.com/api/v1",
+      "description": "Main Yangon provider"
+    },
+    {
+      "id": "koko",
+      "name": "Ko Ko Server",
+      "api_base_url": "https://koko.example.com/api/v1",
+      "description": "Mandalay provider"
+    },
+    {
+      "id": "shwe",
+      "name": "Shwe Server",
+      "api_base_url": "https://shwe.example.com/api/v1",
+      "description": "Backup provider"
+    }
+  ]
+}
