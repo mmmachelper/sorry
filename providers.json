@@ -10,14 +10,20 @@
     },
     {
       "id": "koko",
-      "name": "Ko Ko Server",
-      "api_base_url": "https://koko.example.com/api/v1",
+      "name": "Try",
+      "api_base_url": "https://tryprovider.networkfiltering.ink/api/v1",
       "description": "Mandalay provider"
     },
     {
       "id": "shwe",
-      "name": "Shwe Server",
-      "api_base_url": "https://shwe.example.com/api/v1",
+      "name": "30",
+      "api_base_url": "https://30provider.networkfiltering.ink/api/v1",
+      "description": "Backup provider"
+    },
+    {
+      "id": "shwe",
+      "name": "SMR",
+      "api_base_url": "https://smrstream.networkfiltering.ink/api/v1",
       "description": "Backup provider"
     }
   ]
