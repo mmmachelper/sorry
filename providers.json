@@ -3,25 +3,25 @@
   "updated_at": "2026-02-13T12:00:00Z",
   "providers": [
     {
-      "id": "မင်းသားကြီး ရှိန်း",
+      "id": "smr-ygn",
       "name": "SMR Streaming",
       "api_base_url": "https://networkfiltering.ink/api/v1",
-      "description": "Yangaon Provider"
+      "description": "Yangon provider"
     },
     {
-      "id": "koko",
+      "id": "try-mdl",
       "name": "Try Provider",
       "api_base_url": "https://tryprovider.networkfiltering.ink/api/v1",
       "description": "Mandalay provider"
     },
     {
-      "id": "shwe",
+      "id": "30-backup",
       "name": "30 Provider",
       "api_base_url": "https://30provider.networkfiltering.ink/api/v1",
       "description": "Backup provider"
     },
     {
-      "id": "shwe",
+      "id": "smr-backup",
       "name": "SMR Provider",
       "api_base_url": "https://smrstream.networkfiltering.ink/api/v1",
       "description": "Backup provider"
