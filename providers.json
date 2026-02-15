@@ -1,28 +1,30 @@
 {
-"version": 1,
-"updated_at": "2026-02-13T12:00:00Z",
-"providers": [
-{
-"id": "မင်းသားကြီး ရှိန်း",
-"name": "SMR Streaming",
-"api_base_url": "https://networkfiltering.ink/api/v1",
-"description": "Yangaon Provider"
-},
-{
-"id": "koko",
-"name": "Try Provider",
-"api_base_url": "https://tryprovider.networkfiltering.ink/api/v1",
-"description": "Mandalay provider"
-},
-{
-"id": "shwe",
-"name": "30 Provider",
-"api_base_url": "https://30provider.networkfiltering.ink/api/v1",
-"description": "Backup provider"
-},
-{
-"id": "shwe",
-"name": "SMR Provider",
-"api_base_url": "https://smrstream.networkfiltering.ink/api/v1",
-"description": "Backup provider"
+  "version": 1,
+  "updated_at": "2026-02-13T12:00:00Z",
+  "providers": [
+    {
+      "id": "မင်းသားကြီး ရှိန်း",
+      "name": "SMR Streaming",
+      "api_base_url": "https://networkfiltering.ink/api/v1",
+      "description": "Yangaon Provider"
+    },
+    {
+      "id": "koko",
+      "name": "Try Provider",
+      "api_base_url": "https://tryprovider.networkfiltering.ink/api/v1",
+      "description": "Mandalay provider"
+    },
+    {
+      "id": "shwe",
+      "name": "30 Provider",
+      "api_base_url": "https://30provider.networkfiltering.ink/api/v1",
+      "description": "Backup provider"
+    },
+    {
+      "id": "shwe",
+      "name": "SMR Provider",
+      "api_base_url": "https://smrstream.networkfiltering.ink/api/v1",
+      "description": "Backup provider"
+    }
+  ]
 }
