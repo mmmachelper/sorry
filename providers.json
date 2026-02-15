@@ -19,12 +19,6 @@
       "name": "30 Provider",
       "api_base_url": "https://30provider.networkfiltering.ink/api/v1",
       "description": "Backup provider"
-    },
-    {
-      "id": "smr-backup",
-      "name": "SMR Provider",
-      "api_base_url": "https://smrstream.networkfiltering.ink/api/v1",
-      "description": "Backup provider"
     }
   ]
 }
